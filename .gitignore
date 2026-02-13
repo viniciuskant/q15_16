@@ -1,0 +1,18 @@
+# Arquivos compilados
+*.o
+*.out
+*.a
+*.so
+
+test_q15_16
+test_q7_8
+
+
+*.d
+*.gcno
+*.gcda
+*.gcov
+
+# Debug
+*.log
+*.tmp
